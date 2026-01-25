@@ -1,0 +1,21 @@
+﻿Qty,Tenor,Product,Strategy
+100,H6,HTT,HTT_Front
+-574,K6,HTT,HTT_Mid
+-75,Cal27,HTT,HTT_Back
+100,H2-26,HTT,HTT_Back
+300,H6/J6,HOUBR_Cross,HOUBR_Front
+-25,Cal27,HOUBR,HOUBR_Back
+31.9996,J6,CLBR,HOUBR_Back
+200,Q4-26,HOUBR,HOUBR_Back
+-1400,Q2-26/Q3-26,HTT Rolls,HTT_Rolls
+-100,Cal27/Cal28,HTT Rolls,HTT_Rolls
+-1300,K6/M6,HOUBR Boxes,HOUBR_rolls
+-300,J6/N6,CLBR Boxes,HOUBR_rolls
+100,Z6/Z7,CLBR Boxes,HOUBR_rolls
+850,U6/V6,CLBR Boxes,HOUBR_rolls
+-870,Q4-26,HTTMID,Longhorn
+190,Cal27,HTTMID,Longhorn
+753,H6,HTTMID,Longhorn
+1000,Q2-26,HTTMID,Longhorn
+-120,J6/Q2-26,WDF,Freight
+15,J6,WDF,Freight
